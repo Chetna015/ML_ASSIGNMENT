@@ -19,14 +19,13 @@ The objective of this project is to build a mathematically rigorous, leakage-fre
 
 ---
 
-## 3. Group Members & Contributions
+## 3. Group Members
 
-| Student Name | Roll Number | Contribution |
-| :--- | :---: | :--- |
-| **Student 1 (Lead)** | *Your Roll No* | Problem formulation, Exploratory Data Analysis, Train-Test Splitting & Data Leakage architecture, Model validation benchmarking. |
-| **Student 2** | *Your Roll No* | From-scratch Descriptive Statistics, Missing Value Median/Mode Imputation, Duplicate & Invalid Data detection. |
-| **Student 3** | *Your Roll No* | Categorical Encoding (Label & One-Hot Encoding from scratch), Outlier Detection (IQR & Z-Score), Log Transformation, Feature Scaling. |
-| **Student 4** | *Your Roll No* | Filter Feature Selection (Variance Threshold, Pearson Correlation, Chi-Square Test, ANOVA F-Test, Mutual Information Entropy) from scratch & SciPy/Sklearn verification. |
+| S.No. | Student Name | Roll Number |
+| :---: | :--- | :---: |
+| 1 | **Chetna Yadav** | 23001390015 |
+| 2 | **Suryansh Gupta** | 23001390045 |
+| 3 | **Shraddha Yadav** | 23001390041 |
 
 ---
 
