@@ -6,3 +6,6 @@ __pycache__/
 scratch_*.py
 build_*.py
 execute_*.py
+*.ppt
+*.pptx
+[Uu]ntitled*.ipynb
