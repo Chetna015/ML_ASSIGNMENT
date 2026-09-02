@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+scratch_*.py
+build_*.py
+execute_*.py
